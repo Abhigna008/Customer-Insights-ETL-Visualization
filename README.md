@@ -38,6 +38,7 @@ A professional dashboard was developed to visualize KPIs and trends:
 - **Donut Chart:** Customer distribution by subscription status (27% Yes vs 73% No).
 - **Bar Charts:** Revenue and sales volume by product category and age group.
 - **Slicers:** Interactive filtering by Gender, Category, Shipping Type, and Subscription Status.
+![Customer Behavior Dashboard](https://github.com/Abhigna008/Customer-Insights-ETL-Visualization/blob/main/Dashboard_Screenshots/Dashboard.png)
 
 ## How to Run This Project
 1. **Python:** Run `customer_behavior_analysis.ipynb` to clean the raw CSV data.
